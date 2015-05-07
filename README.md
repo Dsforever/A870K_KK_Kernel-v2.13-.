@@ -1,1 +1,1 @@
-# A870K_KK_Kernel-v2.13-.
+# A870K_KK_Kernel-v2.13
